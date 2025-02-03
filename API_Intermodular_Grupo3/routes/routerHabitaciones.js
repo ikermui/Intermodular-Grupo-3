@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const ModelUser = require('../models/modelHabitaciones.js'); 
+const ModelUser = require('../models/modelsHabitaciones.js'); 
 //middleware para acceder 
 router.get('/getAll', async (req, res) => {
     try{
