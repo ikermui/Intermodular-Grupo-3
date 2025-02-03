@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario JSON con Imagen</title>
+</head>
+<body>
+
+    <h1>Formulario JSON con Imagen</h1>
+
+    <form id="formularioJson">
+        <label for="nombre">Nombre:</label><br>
+        <input type="text" id="nombre" name="nombre" required><br>
+
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" required><br>
+
+        <label for="username">Username:</label><br>
+        <input type="text" id="username" name="username" required><br>
+
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" name="password" required><br>
+
+        <!-- Nuevo campo para cargar la imagen -->
+        <label for="avatar">Avatar (Imagen):</label><br>
+        <input type="file" id="avatar" name="avatar" accept="image/*"><br>
+
+        <button type="button" onclick="enviarFormulario()">Enviar</button>
+    </form>
+
+    <script>
+        async function enviarFormulario() {
+            const nombre = document.getElementById('nombre').value;
+            const email = document.getElementById('email').value;
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Obtener la imagen seleccionada
+            const avatarInput = document.getElementById('avatar');
+            const avatarFile = avatarInput.files[0];
+
+            // Convertir la imagen a base64 (si está presente)
+            const avatarBase64 = avatarFile ? await convertirImagenABase64(avatarFile) : null;
+
+            const jsonData = {
+                nombre: nombre,
+                email: email,
+                username: username,
+                password: password,
+                avatar: avatarBase64
+            };
+
+            try {
+                const response = await fetch('http://localhost:3000/user/new', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(jsonData)
+                });
+
+                if (response.ok) {
+                    console.log('Datos enviados correctamente.');
+                } else {
+                    console.error('Error al enviar datos:', response.statusText);
+                }
+            } catch (error) {
+                console.error('Error en la solicitud:', error.message);
+            }
+        }
+
+        function convertirImagenABase64(imagenFile) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onloadend = () => resolve(reader.result.split(',')[1]);
+                reader.onerror = reject;
+                reader.readAsDataURL(imagenFile);
+            });
+        }
+    </script>
+
+</body>
+</html>

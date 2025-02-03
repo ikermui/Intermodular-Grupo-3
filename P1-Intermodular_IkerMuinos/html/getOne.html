@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Consulta de Usuario</title>
+</head>
+<body>
+
+    <h1>Consulta de Usuario</h1>
+
+    <label for="usernameInput">Nombre de Usuario:</label>
+    <input type="text" id="usernameInput" placeholder="Ingrese el nombre de usuario">
+    <button onclick="consultarUsuario()">Consultar</button>
+
+    <div id="resultado">
+        <p id="nombre"></p>
+        <p id="email"></p>
+        <p id="username"></p>
+        <p id="password"></p>
+        <img id="avatar" alt="Avatar">
+    </div>
+
+    <script>
+        async function consultarUsuario() {
+            const username = document.getElementById('usernameInput').value;
+
+            const jsonData = {
+                username: username
+            };
+
+            try {
+                const response = await fetch('http://localhost:3000/user/getOne', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(jsonData)
+                });
+
+                if (response.ok) {
+                    const usuario = await response.json();
+                    console.log(usuario);
+                    mostrarResultado(usuario);
+                } else {
+                    console.error('Error al obtener datos:', response.statusText);
+                }
+            } catch (error) {
+                console.error('Error en la solicitud:', error.message);
+            }
+        }
+
+        function mostrarResultado(usuario) {
+            document.getElementById('nombre').textContent = `Nombre: ${usuario.nombre}`;
+            document.getElementById('email').textContent = `Email: ${usuario.email}`;
+            document.getElementById('username').textContent = `Username: ${usuario.username}`;
+            document.getElementById('password').textContent = `Password: ${usuario.password}`;
+
+            // Mostrar la imagen
+            const avatarImg = document.getElementById('avatar');
+            avatarImg.src = `data:image/png;base64, ${usuario.avatar}`;
+        }
+    </script>
+
+</body>
+</html>
