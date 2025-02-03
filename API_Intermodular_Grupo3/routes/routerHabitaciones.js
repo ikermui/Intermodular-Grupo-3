@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const ModelUser = require('../models/modelsHabitaciones'); 
+const ModelUser = require('../models/modelHabitaciones.js'); 
 //middleware para acceder 
 router.get('/getAll', async (req, res) => {
     try{
@@ -28,7 +28,7 @@ router.get('/getOne', async (req, res) => {
     });
 
 
-router.post('/getFilter', async (req, res) => {
+/*router.post('/getFilter', async (req, res) => {
     try{
     const condiciones = {};
     if (req.body.nombre) condiciones.nombre = req.body.nombre;
@@ -49,7 +49,7 @@ router.post('/getFilter', async (req, res) => {
     catch(error){
     res.status(500).json({message: error.message});
     }
-});
+});*/
 
 
 router.post('/getFilter2', async (req, res) => {
@@ -61,6 +61,7 @@ router.post('/getFilter2', async (req, res) => {
             if (req.body.ofertaMin !== undefined) condiciones.oferta.$gte = req.body.ofertaMin;
             if (req.body.ofertaMax !== undefined) condiciones.oferta.$lte = req.body.ofertaMax;
         }
+        if (req.body.baja) condiciones.baja = req.body.baja;
         if (req.body.camaExtra) condiciones.camaExtra = req.body.camaExtra;
         if (req.body.cuna) condiciones.cuna = req.body.cuna;
         const data = await ModelUser.find(condiciones);
@@ -84,6 +85,7 @@ router.post('/new', async (req, res) => {
         oferta: req.body.oferta,
         finOferta: req.body.finOferta,
         camaExtra: req.body.camaExtra,
+        baja: req.body.baja,
         cuna: req.body.cuna
     })
 
@@ -110,6 +112,7 @@ router.patch("/update", async (req, res) => {
         oferta: req.body.oferta,
         finOferta: req.body.finOferta,
         camaExtra: req.body.camaExtra,
+        baja: req.body.baja,
         cuna: req.body.cuna
     },});
     
@@ -117,7 +120,6 @@ router.patch("/update", async (req, res) => {
         return res.status(404).json({ message: "Documento no encontrado" });
     }
     
-    //res.send(resultado)
     res.status(200).json({ message: "Documento actualizado exitosamente"
     });
     } catch (error) {
