@@ -3,7 +3,6 @@ const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const path = require('path');
 const app = express();
-const reservasSchema = require('./models/models'); 
 
 app.use(bodyParser.json());
 
@@ -14,9 +13,13 @@ app.listen(3000, () => {
 console.log(`Server Started at ${PORT}`)
 })
 
-const routerReservas = require('./routes/router');
-//middleware para acceder a usuarios
+const routerReservas = require('./routes/routerReservas');
 app.use('/reservas', routerReservas)
+const routerUsuarios = require('./routes/routerUsuarios');
+app.use('/usuarios', routerUsuarios)
+const routerHabitaciones = require('./routes/routerHabitaciones');
+app.use('/habitaciones', routerHabitaciones);
+
 
 require('dotenv').config();
 

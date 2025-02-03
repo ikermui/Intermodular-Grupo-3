@@ -1,5 +1,5 @@
 const express = require('express');
-const reservasSchema = require('../models/models');
+const reservasSchema = require('../models/modelsReservas');
 const router = express.Router()
 
 const parseFecha = (fecha) => {
@@ -128,8 +128,8 @@ router.patch("/update", async (req, res) => {
                 $set: {
                     dni: req.body.dni,
                     id_hab: req.body.id_hab,
-                    fecha_ini: req.body.fecha_ini,
-                    fecha_fin: req.body.fecha_fin,
+                    fecha_ini: parseFecha(req.body.fecha_ini),
+                    fecha_fin: parseFecha(req.body.fecha_fin),
                     numHuespedes: req.body.numHuespedes,
                 },
             }
