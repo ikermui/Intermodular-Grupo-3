@@ -8,6 +8,8 @@ const HabitacionesSchema = new mongoose.Schema({
 
  descripcion: { required: true, type: String },
 
+ baja: { required: true, type: Boolean}, 
+ 
  imagen: { required: false, type: String },
 
  precio: { required: true, type: Number },
