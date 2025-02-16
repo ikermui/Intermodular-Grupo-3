@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\anadirhabitacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\anadirhabitacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\editarhabitacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\editarhabitacion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\anadirhabitacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\anadirhabitacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|c:\\users\\alebalbal\\source\\repos\\intermodular\\intermodular\\editarhabitacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB542B76-071E-42E6-8DC9-48E6E6E4AFD5}|Intermodular\\Intermodular.csproj|solutionrelative:intermodular\\editarhabitacion.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnadirHabitacion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\AnadirHabitacion.xaml.cs",
+              "RelativeDocumentMoniker": "Intermodular\\AnadirHabitacion.xaml.cs",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\AnadirHabitacion.xaml.cs",
+              "RelativeToolTip": "Intermodular\\AnadirHabitacion.xaml.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAAwKYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:00:21.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnadirHabitacion.xaml",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\AnadirHabitacion.xaml",
+              "RelativeDocumentMoniker": "Intermodular\\AnadirHabitacion.xaml",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\AnadirHabitacion.xaml",
+              "RelativeToolTip": "Intermodular\\AnadirHabitacion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T17:34:00.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Intermodular\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\MainWindow.xaml",
+              "RelativeToolTip": "Intermodular\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T17:17:08.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Intermodular\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Intermodular\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAswMQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:46:48.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditarHabitacion.xaml",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\EditarHabitacion.xaml",
+              "RelativeDocumentMoniker": "Intermodular\\EditarHabitacion.xaml",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\EditarHabitacion.xaml",
+              "RelativeToolTip": "Intermodular\\EditarHabitacion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-03T17:33:36.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarHabitacion.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\EditarHabitacion.xaml.cs",
+              "RelativeDocumentMoniker": "Intermodular\\EditarHabitacion.xaml.cs",
+              "ToolTip": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\EditarHabitacion.xaml.cs",
+              "RelativeToolTip": "Intermodular\\EditarHabitacion.xaml.cs",
+              "ViewState": "AQIAAMoAAAAAAAAAAADwv+MAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T17:59:47.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

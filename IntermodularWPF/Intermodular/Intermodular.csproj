@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="boton.jpg" />
+    <None Remove="calendar.png" />
+    <None Remove="cerrar.png" />
+    <None Remove="dropdown.png" />
+    <None Remove="editar.png" />
+    <None Remove="habitacion.jpg" />
+    <None Remove="Imagen1.png" />
+    <None Remove="logo.png" />
+    <None Remove="papelera.png" />
+    <None Remove="recargar.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.6.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="boton.jpg" />
+    <Resource Include="calendar.png" />
+    <Resource Include="cerrar.png" />
+    <Resource Include="dropdown.png" />
+    <Resource Include="editar.png" />
+    <Resource Include="habitacion.jpg" />
+    <Resource Include="logo.png" />
+    <Resource Include="papelera.png" />
+    <Resource Include="recargar.png" />
+  </ItemGroup>
+</Project>

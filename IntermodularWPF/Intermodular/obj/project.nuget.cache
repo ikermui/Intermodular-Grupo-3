@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPrrRqeSgGI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alebalbal\\source\\repos\\Intermodular\\Intermodular\\Intermodular.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alebalbal\\.nuget\\packages\\extended.wpf.toolkit\\4.6.1\\extended.wpf.toolkit.4.6.1.nupkg.sha512",
+    "C:\\Users\\alebalbal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
