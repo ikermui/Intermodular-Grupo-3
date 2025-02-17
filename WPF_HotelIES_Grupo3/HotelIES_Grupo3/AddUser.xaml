@@ -1,0 +1,301 @@
+﻿<Window x:Class="HotelIES_Grupo3.AddUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelIES_Grupo3"
+        mc:Ignorable="d"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        AllowsTransparency="True"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        Title="AddUser" Height="720" Width="1280">
+    <Window.Resources>
+        <Style TargetType="DatePicker">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="DatePicker">
+                        <Border Background="Whitesmoke" 
+                    BorderBrush="LightGray" 
+                    BorderThickness="1" 
+                    CornerRadius="10">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="35" />
+                                </Grid.ColumnDefinitions>
+
+                                <DatePickerTextBox x:Name="PART_TextBox"
+                                       Background="Transparent"
+                                       Margin="5, 0, 0, 0">
+                                    <DatePickerTextBox.Template>
+                                        <ControlTemplate>
+                                            <Border Background="{TemplateBinding Background}" 
+                                    BorderBrush="{TemplateBinding BorderBrush}" 
+                                    BorderThickness="{TemplateBinding BorderThickness}">
+                                                <TextBox x:Name="PART_TextBoxInner"
+                                        IsReadOnly="True"
+                                        VerticalContentAlignment="Center"
+                                        Background="Transparent"
+                                        BorderThickness="0"
+                                        Text="{Binding RelativeSource={RelativeSource TemplatedParent}, Path=Text, Mode=TwoWay}"
+                                        HorizontalAlignment="Left"
+                                        Padding="5"/>
+                                            </Border>
+                                        </ControlTemplate>
+                                    </DatePickerTextBox.Template>
+                                </DatePickerTextBox>
+
+                                <Button x:Name="PART_Button" 
+                            Grid.Column="1"
+                            Background="Transparent"
+                            BorderBrush="LightGray"
+                            BorderThickness="0"
+                            VerticalAlignment="Center"
+                            HorizontalAlignment="Center"
+                                
+                            Width="25"
+                            Height="25"
+                            Margin="5">
+                                    <Image Source="/calendar.png" 
+                                   Width="20" 
+                                   Height="20" 
+                                   Stretch="Uniform"/>
+                                </Button>
+
+                                <Popup x:Name="PART_Popup" 
+                           Placement="Bottom" 
+                           AllowsTransparency="True">
+                                    <Border Background="White" 
+                                BorderBrush="LightGray" 
+                                BorderThickness="1" 
+                                CornerRadius="5">
+                                        <Calendar x:Name="PART_Calendar" />
+                                    </Border>
+                                </Popup>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+        </Style>
+
+        <Style TargetType="ComboBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ComboBox">
+                        <Border Background="Whitesmoke" 
+            BorderBrush="LightGray" 
+            BorderThickness="1" 
+            CornerRadius="5">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*" />
+                                    <ColumnDefinition Width="35" />
+                                </Grid.ColumnDefinitions>
+
+                                <ContentPresenter x:Name="ContentSite"
+                              Margin="5, 0, 0, 0"
+                              VerticalAlignment="Center"
+                              HorizontalAlignment="Left"
+                              ContentTemplate="{TemplateBinding SelectionBoxItemTemplate}"
+                              Content="{TemplateBinding SelectionBoxItem}" />
+
+                                <ToggleButton x:Name="DropDownToggle"
+                          Grid.Column="1"
+                          Background="Transparent"
+                          BorderBrush="LightGray"
+                          BorderThickness="0"
+                          VerticalAlignment="Center"
+                          HorizontalAlignment="Center"
+                          Width="25"
+                          Height="25"
+                          Margin="5"
+                          IsChecked="{Binding IsDropDownOpen, RelativeSource={RelativeSource TemplatedParent}}">
+                                    <Image Source="/dropdown.png" 
+                       Width="20" 
+                       Height="20" 
+                       Stretch="Uniform"/>
+                                </ToggleButton>
+
+                                <Popup x:Name="PART_Popup"
+                   Placement="Bottom"
+                   AllowsTransparency="True"
+                   IsOpen="{TemplateBinding IsDropDownOpen}"
+                   Focusable="False">
+                                    <Border Background="White"
+                        BorderBrush="LightGray"
+                        BorderThickness="1"
+                        Width="130"        
+                        CornerRadius="5">
+                                        <ScrollViewer Margin="0"
+                                  SnapsToDevicePixels="True">
+                                            <ItemsPresenter />
+                                        </ScrollViewer>
+                                    </Border>
+                                </Popup>
+                            </Grid>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <!--borde redondeado y luego definición del grid-->
+
+
+    <Border Background="WhiteSmoke" CornerRadius="20" BorderThickness="2" BorderBrush="Black">
+        <Grid Background="Transparent" Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="65*"></ColumnDefinition>
+                <ColumnDefinition Width="38*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <DockPanel Margin="0,8,0,147">
+                <TextBlock Text="Añadir usuario" FontSize="48" Foreground="#1f3b91" FontWeight="Medium" VerticalAlignment="Center"/>
+                
+            </DockPanel>
+            <Button HorizontalAlignment="Right" Grid.Column="1" VerticalAlignment="Top" Click="Button_Click">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Image Width="50" Source="/cerrar.png"/>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!--Contenedor datos primera fila-->
+
+            <WrapPanel Grid.Row="0" Margin="0,100,0,0">
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="DNI" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <TextBox x:Name="txtDni" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Rol" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50" Width="200">
+                        <ComboBox x:Name="rolSeleccionado"
+                             Background="Transparent"
+                             HorizontalAlignment="Stretch"
+                             VerticalAlignment="Stretch"
+                             BorderThickness="0">
+                            <ComboBoxItem>Cliente</ComboBoxItem>
+                            <ComboBoxItem>Administrador</ComboBoxItem>
+                            <ComboBoxItem>Empleado</ComboBoxItem>
+                        </ComboBox>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="fecha de nacimiento" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50" Width="200">
+                        <DatePicker x:Name="txtFecha_nac" BorderThickness="0"
+                         Background="Transparent"
+                         FontSize="15"
+                         VerticalContentAlignment="Center"
+                         HorizontalAlignment="Stretch"
+                         VerticalAlignment="Stretch"/>
+                    </Border>
+                </StackPanel>
+            </WrapPanel>
+
+            <!--Contenedor datos segunda fila-->
+
+            <WrapPanel Grid.Row="1" Margin="0,40,0,225" Grid.RowSpan="2">
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Nombre" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <TextBox x:Name="txtNombre" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Email" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <TextBox x:Name="txtEmail" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Ciudad" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <TextBox x:Name="txtCiudad" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+            </WrapPanel>
+
+            <!--Contenedor datos tercera fila-->
+            <WrapPanel Grid.Row="2">
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Apellidos" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <TextBox x:Name="txtApellido" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Contraseña" FontSize="25" Margin="0 0 0 15"/>
+                    <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="50">
+                        <PasswordBox x:Name="txtPassword" BorderThickness="0" Background="Transparent" FontSize="15" VerticalContentAlignment="Center" Width="200"/>
+                    </Border>
+                </StackPanel>
+
+                <StackPanel Margin="0,0,40,0">
+                    <TextBlock Text="Sexo" FontSize="25" Margin="0 0 0 15"/>
+                    <StackPanel>
+                        <RadioButton x:Name="hombre" Content="Hombre" FontSize="18"   GroupName="sexo" VerticalContentAlignment="Center" />
+                        <RadioButton x:Name="mujer" Content="Mujer" FontSize="18"  GroupName="sexo" VerticalContentAlignment="Center" />
+                        <RadioButton x:Name="indeterminado" Content="Indeterminado" FontSize="18"  GroupName="sexo" VerticalContentAlignment="Center" />
+                    </StackPanel>
+                </StackPanel>
+            </WrapPanel>
+
+
+            <StackPanel Grid.Column="1" Grid.Row="0" Grid.RowSpan="3" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,103,0,0">
+
+                <!--Selector de imagen-->
+
+                <WrapPanel >
+                    <StackPanel>
+                        <TextBlock Text="Seleccionar imagen de perfil" FontSize="25" Margin="0 0 0 15"/>
+                        <Border BorderBrush="Gray" CornerRadius="10" Background="White" BorderThickness="1" Height="440">
+                            <Grid>
+                                <!-- Control para mostrar la imagen seleccionada -->
+                                <Image Height="490" Width="310" x:Name="imgPreview" Stretch="Fill" />
+                                <!-- Botón transparente superpuesto para abrir el diálogo -->
+                                <Button Background="Transparent"
+    Foreground="Transparent" 
+    VerticalContentAlignment="Center" 
+    HorizontalAlignment="Stretch" 
+    VerticalAlignment="Stretch"  
+    BorderBrush="Transparent"
+    BorderThickness="0"
+    Click="Button_SelectImage_Click"
+/>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+                </WrapPanel>
+
+                <StackPanel>
+                    <Border Width="300" Height="40" BorderBrush="#1f3b91" Background="#1f3b91" CornerRadius="20" Margin="0,10,0,0">
+                        <Button Background="Transparent" Foreground="White" BorderBrush="Transparent" FontSize="18" Click="BtnAñadir_Click">
+                            AÑADIR
+                        </Button>
+                    </Border>
+                </StackPanel>
+
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

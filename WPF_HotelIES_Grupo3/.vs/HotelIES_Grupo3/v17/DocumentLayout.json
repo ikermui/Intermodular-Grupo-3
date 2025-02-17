@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\buscarreserva.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\buscarreserva.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\buscarreserva.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\buscarreserva.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\habitaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\crearreservas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\crearreservas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|c:\\users\\ikemuimor\\source\\repos\\hotelies_grupo3\\hotelies_grupo3\\crearreservas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC637687-4604-4364-A756-38F52CC5D775}|HotelIES_Grupo3\\HotelIES_Grupo3.csproj|solutionrelative:hotelies_grupo3\\crearreservas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuscarReserva.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\BuscarReserva.xaml.cs",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\BuscarReserva.xaml.cs",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\BuscarReserva.xaml.cs",
+              "RelativeToolTip": "HotelIES_Grupo3\\BuscarReserva.xaml.cs",
+              "ViewState": "AQIAAIQBAAAAAAAAAAAAAI0BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:09:27.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscarReserva.xaml",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\BuscarReserva.xaml",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\BuscarReserva.xaml",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\BuscarReserva.xaml",
+              "RelativeToolTip": "HotelIES_Grupo3\\BuscarReserva.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T16:09:25.75Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrearReservas.xaml",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\CrearReservas.xaml",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\CrearReservas.xaml",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\CrearReservas.xaml",
+              "RelativeToolTip": "HotelIES_Grupo3\\CrearReservas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-12T20:00:45.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrearReservas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\CrearReservas.xaml.cs",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\CrearReservas.xaml.cs",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\CrearReservas.xaml.cs",
+              "RelativeToolTip": "HotelIES_Grupo3\\CrearReservas.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T20:00:43.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Clientes.cs",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\Clientes.cs",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Clientes.cs",
+              "RelativeToolTip": "HotelIES_Grupo3\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T16:09:08.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Habitaciones.cs",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Habitaciones.cs",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\Habitaciones.cs",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Habitaciones.cs",
+              "RelativeToolTip": "HotelIES_Grupo3\\Habitaciones.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T19:47:25.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Reservas.cs",
+              "RelativeDocumentMoniker": "HotelIES_Grupo3\\Reservas.cs",
+              "ToolTip": "C:\\Users\\ikemuimor\\source\\repos\\HotelIES_Grupo3\\HotelIES_Grupo3\\Reservas.cs",
+              "RelativeToolTip": "HotelIES_Grupo3\\Reservas.cs",
+              "ViewState": "AQIAAHQBAAAAAAAAAAAQwIEBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:48:39.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

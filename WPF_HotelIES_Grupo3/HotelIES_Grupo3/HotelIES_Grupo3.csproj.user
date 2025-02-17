@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AnadirHabitacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BuscadorUsuarios.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BuscarHabitacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BuscarReserva.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CrearReservas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditarHabitacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditarReserva.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ListaReservas.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SeleccionarCliente.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SelecionarHabitacion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateUser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AnadirHabitacion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BuscadorUsuarios.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BuscarHabitacion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="BuscarReserva.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CrearReservas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditarHabitacion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditarReserva.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ListaReservas.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SeleccionarCliente.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SelecionarHabitacion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UpdateUser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

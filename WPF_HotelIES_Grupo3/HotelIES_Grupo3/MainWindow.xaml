@@ -1,0 +1,40 @@
+﻿<Window x:Class="HotelIES_Grupo3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelIES_Grupo3"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        Icon="logo.ico"
+        WindowState="Maximized"
+        Title="MainWindow" Height="1200" Width="1000">
+    <Grid>
+        <StackPanel VerticalAlignment="Center">
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock HorizontalAlignment="Center" Margin="5">ID:</TextBlock>
+                <TextBox Width="300" HorizontalAlignment="Center" x:Name="_idTextBox" Margin="5"></TextBox>
+                <TextBlock HorizontalAlignment="Center" Margin="5">DNI:</TextBlock>
+                <TextBox Width="300" HorizontalAlignment="Center" x:Name="dniTextBox" Margin="5"></TextBox>
+                <TextBlock HorizontalAlignment="Center" Margin="5">ID Hab:</TextBlock>
+                <TextBox Width="300" HorizontalAlignment="Center" x:Name="idTextBox" Margin="10"></TextBox>
+                <TextBlock HorizontalAlignment="Center" Margin="5">Fecha_Ini:</TextBlock>
+                <DatePicker Width="300" HorizontalAlignment="Center" x:Name="fecha_iniTextBox" Margin="5"></DatePicker>
+                <TextBlock HorizontalAlignment="Center" Margin="5">Fecha_Fin:</TextBlock>
+                <DatePicker Width="300" HorizontalAlignment="Center" x:Name="fecha_finTextBox" Margin="5"></DatePicker>
+                <TextBlock HorizontalAlignment="Center" Margin="5">Num Huespedes:</TextBlock>
+                <TextBox Width="300" HorizontalAlignment="Center" x:Name="numHuespedesTextBox" Margin="5"></TextBox>
+                <Button Width="200" Margin="0, 10, 0, 10" Click="Button_Click_3">Buscar Reserva</Button>
+                <Button Width="200" Margin="0, 0, 0, 10" Click="Button_Click_5">Lista Reservas</Button>
+                <Button Width="200" Margin="0, 0, 0, 10" Click="Button_Click_4">Buscar por Filtro</Button>
+                <Button Width="250" Height="30" Margin="5" Click="Button_Click_6">Actualizar</Button>
+                <Button Width="250" Height="30" Margin="0, 0, 0, 20" Click="Button_Click_7">Borrar</Button>
+            </StackPanel>
+            <StackPanel VerticalAlignment="Center" Background="LightGray">
+                <Button Width="100" Height="50" Click="Button_Click">Crear Reservas</Button>
+                <Button Width="100" Height="50" Margin="0, 20, 0, 0" Click="Button_Click_1">Lista de Reservas</Button>
+                <Button Width="100" Height="50" Margin="0, 20, 0, 0" Click="Button_Click_2">Buscar Reservas</Button>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

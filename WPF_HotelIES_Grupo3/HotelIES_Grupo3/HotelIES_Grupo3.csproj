@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>img\logo.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="add.png" />
+    <None Remove="alexfoto.jpg" />
+    <None Remove="calendar.png" />
+    <None Remove="cerrar.png" />
+    <None Remove="default.jpg" />
+    <None Remove="dropdown.png" />
+    <None Remove="editar.png" />
+    <None Remove="franfoto.jpg" />
+    <None Remove="hab1.jpg" />
+    <None Remove="hab3.jpg" />
+    <None Remove="habitacionHotel2.jpg" />
+    <None Remove="ikerfoto.png" />
+    <None Remove="listview.png" />
+    <None Remove="logo.ico" />
+    <None Remove="logo.png" />
+    <None Remove="papelera.png" />
+    <None Remove="placeholder.jpg" />
+	  <None Remove="edicion.png" />
+	  <None Remove="recargar.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="img\logo.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Extended.Wpf.Toolkit" Version="4.7.25103.5738" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="add.png" />
+    <Resource Include="alexfoto.jpg" />
+    <Resource Include="calendar.png" />
+    <Resource Include="cerrar.png" />
+    <Resource Include="default.jpg" />
+    <Resource Include="dropdown.png" />
+    <Resource Include="editar.png" />
+	<Resource Include="edicion.png" />
+    <Resource Include="franfoto.jpg" />
+    <Resource Include="hab1.jpg" />
+    <Resource Include="hab3.jpg" />
+    <Resource Include="habitacionHotel2.jpg" />
+    <Resource Include="ikerfoto.png" />
+    <Resource Include="listview.png" />
+    <Resource Include="logo.ico" />
+    <Resource Include="logo.png" />
+    <Resource Include="papelera.png" />
+    <Resource Include="placeholder.jpg" />
+    <Resource Include="recargar.png" />
+  </ItemGroup>
+
+</Project>

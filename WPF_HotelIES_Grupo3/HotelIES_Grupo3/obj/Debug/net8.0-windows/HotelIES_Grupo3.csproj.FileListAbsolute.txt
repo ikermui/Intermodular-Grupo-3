@@ -1,0 +1,307 @@
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.cache
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.lref
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.exe
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.deps.json
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.runtimeconfig.json
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.g.resources
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfoInputs.cache
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfo.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\refint\HotelIES_Grupo3.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.genruntimeconfig.cache
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ref\HotelIES_Grupo3.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.g.cs
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.baml
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.AssemblyReference.cache
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES.A3B07D96.Up2Date
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikemuimor\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.exe
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.deps.json
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.runtimeconfig.json
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.AssemblyReference.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.lref
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.g.resources
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfoInputs.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfo.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CopyComplete
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\refint\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.genruntimeconfig.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ref\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_Content.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.exe
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.deps.json
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.runtimeconfig.json
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.AssemblyReference.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_Content.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.lref
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.g.resources
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfoInputs.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfo.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CopyComplete
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\refint\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.genruntimeconfig.cache
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\ref\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.baml
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.g.cs
+C:\Users\ikerm\source\repos\HotelIES_Grupo3 - copia\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.exe
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.deps.json
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.runtimeconfig.json
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.AssemblyReference.cache
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_Content.g.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.cache
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.lref
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.baml
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.g.resources
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfoInputs.cache
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfo.cs
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CopyComplete
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\refint\HotelIES_Grupo3.dll
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.genruntimeconfig.cache
+C:\Users\ikerm\source\repos\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ref\HotelIES_Grupo3.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.exe
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.deps.json
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.runtimeconfig.json
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.AssemblyReference.cache
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\App.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_Content.g.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.cache
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3_MarkupCompile.lref
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AddUser.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\AnadirHabitacion.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscadorUsuarios.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarHabitacion.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\BuscarReserva.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\CrearReservas.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarHabitacion.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\EditarReserva.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ListaReservas.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\LoginView.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SeleccionarCliente.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\SelecionarHabitacion.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\UpdateUser.baml
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.g.resources
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfoInputs.cache
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.AssemblyInfo.cs
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CoreCompileInputs.cache
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.sourcelink.json
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.csproj.CopyComplete
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\refint\HotelIES_Grupo3.dll
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.pdb
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\HotelIES_Grupo3.genruntimeconfig.cache
+D:\ProyectoIntermodular\WPF_HotelIES_Grupo3\HotelIES_Grupo3\obj\Debug\net8.0-windows\ref\HotelIES_Grupo3.dll

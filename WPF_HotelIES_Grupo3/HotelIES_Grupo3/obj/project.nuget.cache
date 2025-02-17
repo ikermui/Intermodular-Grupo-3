@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0iXbHi4YcvyecEFVFvzq/cfIx2JuSt87UasURKCraUUENuqcbUaawdlWWPwhG9/iINXvVN/P2/dRpHY9d4ygA==",
+  "success": true,
+  "projectFilePath": "D:\\ProyectoIntermodular\\WPF_HotelIES_Grupo3\\HotelIES_Grupo3\\HotelIES_Grupo3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexb\\.nuget\\packages\\extended.wpf.toolkit\\4.7.25103.5738\\extended.wpf.toolkit.4.7.25103.5738.nupkg.sha512",
+    "C:\\Users\\Alexb\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
